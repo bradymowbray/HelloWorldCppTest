@@ -1,0 +1,3 @@
+// the configured options and settings for gubser
+#define run_test_VERSION_MAJOR @run_test_VERSION_MAJOR@
+#define run_test_VERSION_MINOR @run_test_VERSION_MINOR@
